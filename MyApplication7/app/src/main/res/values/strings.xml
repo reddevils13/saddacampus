@@ -1,0 +1,10 @@
+<resources>
+    <string name="string">OneDotO</string>
+    <string name="manutd">Man Utd</string>
+    <string name="liverpool">Liverpool</string>
+    <string name="spurs">Tottenham</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="mancity">Man City</string>
+    <string name="app_name">My Application</string>
+</resources>
