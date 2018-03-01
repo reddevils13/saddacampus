@@ -16,17 +16,24 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ManUtd"
-            android:label="@string/manutd"
-            />
-        <activity android:name=".ManCity"
-            android:label="@string/mancity"/>
-        <activity android:name=".Chelsea"
-            android:label="@string/chelsea"/>
-        <activity android:name=".Arsenal" android:label="@string/arsenal"/>
-        <activity android:name=".Spurs" android:label="@string/spurs"/>
-        <activity android:name=".Liverpool"
-            android:label="@string/liverpool"></activity>
+        <activity
+            android:name=".ManUtd"
+            android:label="@string/manutd" />
+        <activity
+            android:name=".ManCity"
+            android:label="@string/mancity" />
+        <activity
+            android:name=".Chelsea"
+            android:label="@string/chelsea" />
+        <activity
+            android:name=".Arsenal"
+            android:label="@string/arsenal" />
+        <activity
+            android:name=".Spurs"
+            android:label="@string/spurs" />
+        <activity
+            android:name=".Liverpool"
+            android:label="@string/liverpool" />
     </application>
 
 </manifest>

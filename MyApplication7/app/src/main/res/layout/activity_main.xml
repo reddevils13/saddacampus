@@ -66,6 +66,7 @@
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/manutd"
                     android:onClick="manutd"
+
                     />
 
                 <TextView

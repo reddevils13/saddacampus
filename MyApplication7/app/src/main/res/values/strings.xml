@@ -1,10 +1,12 @@
 <resources>
     <string name="string">OneDotO</string>
-    <string name="manutd">Man Utd</string>
-    <string name="liverpool">Liverpool</string>
-    <string name="spurs">Tottenham</string>
-    <string name="chelsea">Chelsea</string>
-    <string name="arsenal">Arsenal</string>
-    <string name="mancity">Man City</string>
+    <string name="manutd"><a href="http://www.manutd.com">Man Utd</a></string>
+    <string name="liverpool"><a href="http://www.liverpoolfc.com/welcome-to-liverpool-fc">Liverpool</a></string>
+    <string name="spurs"><a href="http://www.tottenhamhotspur.com/">Tottenham</a></string>
+    <string name="chelsea"><a href="http://www.chelseafc.com/">Chelsea</a></string>
+    <string name="arsenal"><a href="https://www.arsenal.com/">Arsenal</a></string>
+    <string name="mancity"><a href="https://www.mancity.com/">Man City</a></string>
     <string name="app_name">My Application</string>
+    <string name="title_player_list">Players</string>
+    <string name="title_player_detail">Player Detail</string>
 </resources>
