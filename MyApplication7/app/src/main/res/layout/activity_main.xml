@@ -14,14 +14,15 @@
         android:layout_height="0dp"
         android:layout_weight="2"
         >
+
         <TextView
-            android:text="@string/string"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="80sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/string"
             android:textColor="@android:color/white"
-            android:layout_centerInParent="true"
-            />
+            android:textSize="80sp" />
 
 
     </RelativeLayout>
@@ -46,8 +47,6 @@
             android:layout_marginBottom="15dp"
             app:cardCornerRadius="10dp"
             app:cardElevation="10dp"
-
-
             >
 
             <RelativeLayout
@@ -91,7 +90,8 @@
             android:layout_marginRight="30dp"
             android:layout_marginLeft="10dp"
             android:layout_marginBottom="15dp"
-
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp"
 
             >
 
@@ -108,8 +108,8 @@
                     android:layout_above="@+id/textView2"
                     android:layout_alignParentStart="true"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/mancity"
-                    android:onClick="mancity"/>
+                    android:onClick="mancity"
+                    android:src="@drawable/mancity" />
 
                 <TextView
                     android:id="@+id/textView2"
@@ -134,7 +134,8 @@
             android:layout_marginRight="30dp"
             android:layout_marginLeft="10dp"
             android:layout_marginBottom="15dp"
-
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp"
 
             >
 
@@ -177,6 +178,8 @@
             android:layout_marginRight="30dp"
             android:layout_marginLeft="10dp"
             android:layout_marginBottom="15dp"
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp"
 
 
             >
@@ -220,7 +223,8 @@
             android:layout_marginRight="30dp"
             android:layout_marginLeft="10dp"
             android:layout_marginBottom="15dp"
-
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp"
 
             >
 
@@ -262,7 +266,8 @@
             android:layout_marginRight="30dp"
             android:layout_marginLeft="10dp"
             android:layout_marginBottom="15dp"
-
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp"
 
             >
 
