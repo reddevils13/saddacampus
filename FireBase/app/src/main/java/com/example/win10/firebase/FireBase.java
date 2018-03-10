@@ -10,6 +10,7 @@ import com.firebase.client.Firebase;
 
 public class FireBase extends Application
 {
+
     @Override
     public void onCreate() {
         super.onCreate();
