@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957100160048",
+    "firebase_url": "https://signin-c5d4d.firebaseio.com",
+    "project_id": "signin-c5d4d",
+    "storage_bucket": "signin-c5d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957100160048:android:d84a9e3b436483bd",
+        "android_client_info": {
+          "package_name": "com.example.win10.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957100160048-t3v9kg0cteke10l3n0e6mpvpklir6e8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.win10.signin",
+            "certificate_hash": "a02ab2e2a0d4e5f281cc5ab137f355bdfe2b91f7"
+          }
+        },
+        {
+          "client_id": "957100160048-dmkkfe98b1m24k8u5ueqebmldvg1anvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABF5CWDbVB4LQomBc4viLIEs-OpCbH80s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957100160048-dmkkfe98b1m24k8u5ueqebmldvg1anvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
