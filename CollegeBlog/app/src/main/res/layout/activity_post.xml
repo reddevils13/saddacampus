@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.win10.collegeblog.PostActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linear"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/addimage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:scaleType="fitXY"
+        android:background="#FFFFFF"
+        android:elevation="10dp"
+        android:text="click to add image" />
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_alignBottom="@+id/addimage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="89dp"
+        android:text="Click to add image"
+        android:textColor="#111111"
+        android:textSize="20dp"
+        android:visibility="visible" />
+
+</LinearLayout>
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+
+        android:layout_below="@+id/linear"
+        android:layout_margin="5dp"
+        android:hint="Post Title"
+        android:elevation="10dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/title"
+        android:layout_below="@+id/title"
+        android:layout_marginTop="18dp"
+        android:elevation="10dp"
+        android:id="@+id/desc"
+        android:hint="Post Description" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/desc"
+        android:layout_marginBottom="0dp"
+        android:text="Save Post"
+        android:background="#ADD8E6"
+        android:layout_margin="10dp"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822283877336",
+    "firebase_url": "https://collegeblog-505fb.firebaseio.com",
+    "project_id": "collegeblog-505fb",
+    "storage_bucket": "collegeblog-505fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822283877336:android:373105764d85cc36",
+        "android_client_info": {
+          "package_name": "com.example.win10.collegeblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822283877336-mjebh86p8c8klf8tl5ur3ga627t666df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.win10.collegeblog",
+            "certificate_hash": "a02ab2e2a0d4e5f281cc5ab137f355bdfe2b91f7"
+          }
+        },
+        {
+          "client_id": "822283877336-i0mk78auh2cb172nl5h5jonhu750epua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb65q-x6wwsHqW_6-wQhVn0CRyWMujx6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822283877336-i0mk78auh2cb172nl5h5jonhu750epua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
