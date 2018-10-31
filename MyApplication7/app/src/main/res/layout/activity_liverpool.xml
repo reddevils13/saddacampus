@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.win10.myapplication.Liverpool">
-
+    <!-- liverpool is best-->
     <TextView
         android:id="@+id/textView12"
         android:layout_width="wrap_content"
