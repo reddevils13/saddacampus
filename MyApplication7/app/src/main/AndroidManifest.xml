@@ -29,8 +29,8 @@
             android:name=".Arsenal"
             android:label="@string/arsenal" />
         <activity
-            android:name=".Spurs"
-            android:label="@string/spurs" />
+            android:name=".Tottenham"
+            android:label="@string/Tottenham" />
         <activity
             android:name=".Liverpool"
             android:label="@string/liverpool" />
